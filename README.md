@@ -29,7 +29,6 @@ Turning **data into decisions** through analysis, visualization, and business un
 ### Socials  
 
 <p align="left"> 
-<a href="https://www.github.com/aditimaji" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/aditimaji" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 </p>
 
