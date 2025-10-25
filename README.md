@@ -13,8 +13,6 @@ Turning **data into decisions** through analysis, visualization, and business un
 ## 🌟 Featured Projects:
 [Employee and Project Management Analysis (Python)](https://github.com/aditimaji/Employee-and-Project-Management-Analysis-)  
 [ShopNest Retail Analytics Dashboard (Power BI)](https://github.com/aditimaji/Retail-Analytics-Dashboard)  
-[AirlineDB SQL Analytics Project](https://github.com/aditimaji)  
-[JustLoan Loan Analytics (SQL)](https://github.com/aditimaji)  
 [School Dropout Analysis (Python, Statistics)](https://github.com/aditimaji/-Analysis-of-School-Dropouts-in-Rural-India)
 
 ---
